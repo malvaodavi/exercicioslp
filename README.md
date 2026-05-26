@@ -1,1 +1,1 @@
-Exercícios de lógica de programação em diversas linguagens
+Exercícios de lógica de programação para praticar o raciocínio lógico no uso da programação.
